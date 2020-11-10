@@ -3,8 +3,8 @@
 
 1) [Change Plaintext to Slang language](https://github.com/JainMaster/Python-Exercise-Book/blob/main/Change%20Plaintext%20to%20Slang%20language.ipynb)
 2) [Find whether the two given strings are anagrams or not](https://github.com/JainMaster/Python-Exercise-Book/blob/main/Check%20two%20strings%20are%20anagrams%20or%20not.ipynb)
-3) [Convert Ciphertext to Plaintext using Key](https://github.com/JainMaster/Python-Exercise-Book/blob/main/Convert%20Ciphertext%20to%20Plaintext%20using%20Key.ipynb)
-4) [Convert Plaintext to Ciphertext using Key](https://github.com/JainMaster/Python-Exercise-Book/blob/main/Convert%20Plaintext%20to%20Ciphertext%20using%20Key.ipynb)
+3) [Convert Plaintext to Ciphertext using Key](https://github.com/JainMaster/Python-Exercise-Book/blob/main/Convert%20Plaintext%20to%20Ciphertext%20using%20Key.ipynb)
+4) [Convert Ciphertext to Plaintext using Key](https://github.com/JainMaster/Python-Exercise-Book/blob/main/Convert%20Ciphertext%20to%20Plaintext%20using%20Key.ipynb)
 5) [Modifies all first char have been changed to '@](https://github.com/JainMaster/Python-Exercise-Book/blob/main/Modifies%20all%20first%20char%20have%20been%20changed%20to%20'%40.ipynb)
 6) [Calculate age in years months and days](https://github.com/JainMaster/Python-Exercise-Book/blob/main/calculate%20age%20in%20years%20months%20and%20days)
 7) [Check for a perfect pangram](https://github.com/JainMaster/Python-Exercise-Book/blob/main/check%20for%20a%20perfect%20pangram.ipynb)

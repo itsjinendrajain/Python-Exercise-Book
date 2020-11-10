@@ -6,7 +6,7 @@
 3) [Convert Plaintext to Ciphertext using Key](https://github.com/JainMaster/Python-Exercise-Book/blob/main/Convert%20Plaintext%20to%20Ciphertext%20using%20Key.ipynb)
 4) [Convert Ciphertext to Plaintext using Key](https://github.com/JainMaster/Python-Exercise-Book/blob/main/Convert%20Ciphertext%20to%20Plaintext%20using%20Key.ipynb)
 5) [Modifies all first char have been changed to '@](https://github.com/JainMaster/Python-Exercise-Book/blob/main/Modifies%20all%20first%20char%20have%20been%20changed%20to%20'%40.ipynb)
-6) [Calculate age in years months and days](https://github.com/JainMaster/Python-Exercise-Book/blob/main/calculate%20age%20in%20years%20months%20and%20days)
+6) [Calculate age in years months and days](https://github.com/JainMaster/Python-Exercise-Book/blob/main/calculate%20age%20in%20years%20months%20and%20days.ipynb)
 7) [Check for a perfect pangram](https://github.com/JainMaster/Python-Exercise-Book/blob/main/check%20for%20a%20perfect%20pangram.ipynb)
 8) [Check number is odd or even without using math operation](https://github.com/JainMaster/Python-Exercise-Book/blob/main/check%20number%20is%20odd%20or%20even%20without%20using%20math%20operation.ipynb)
 9) [Count the frequency of each character in a string](https://github.com/JainMaster/Python-Exercise-Book/blob/main/count%20the%20frequency%20of%20each%20character%20in%20a%20string.ipynb)
